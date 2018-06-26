@@ -10,3 +10,6 @@ dependencies:
 - name: golang-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: test
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
